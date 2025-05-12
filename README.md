@@ -7,7 +7,7 @@ This repo is my notebook, my timeline, and my proof that small steps build somet
 
 ## What I'm learning:
 - Python basics and projects  
-- Git & GitHub workflow  "20250512 first update"
+- Git & GitHub workflow  "20250512 1.Update"
 - Coding in English  
 
 ## Why I'm here:
